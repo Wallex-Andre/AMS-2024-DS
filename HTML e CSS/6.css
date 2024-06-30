@@ -1,0 +1,53 @@
+ol {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    margin-left: 10px;
+  }
+  
+  .marcador {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background-image: url("stars.png"); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    margin-right: 10px;
+    padding: 10px;
+  }
+  
+  .conteúdo {
+      display: inline-block;
+    width: 25px;
+    height: 25px;
+    background-image: url("check.png"); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    margin-right: 8px;
+  }
+  
+  .subitem {
+    margin-left: 20px;
+    list-style-type: none;
+  }
+  body{background-color: gray;}
+  
+  h2 {
+    color: blue;
+    text-decoration: underline blue;
+    font-family: Verdana;
+    }
+  
+  ol.c{
+    
+    background-color: beige;
+    border-style: solid;
+    border-color: red;
+    width: 20%;
+  }
+

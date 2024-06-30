@@ -1,0 +1,34 @@
+body {
+    background-color: gray;
+}
+p.TAmarelo {
+    background-color: #FFFF99;
+    margin-top: 20px;
+    margin-right: 20px;
+    width: 50%;
+    padding: 20px;
+}
+p.TAzul {
+    background-color: #66CCFF;
+    margin-top: 20px;
+    margin-right: 20px;
+    border-style:dotted;
+    width: 40%;
+    padding: 20px;
+    padding-right:190px;
+}
+
+img {
+    margin-left: 570px;
+    margin-top: 125px;
+    position: absolute;
+}
+
+p.TVerde {
+    background-color: #99FF66;
+    margin-top: 20px;
+    margin-right: 20px;
+    width: 40%;
+    padding: 20px;
+    margin-left: 700px;
+}

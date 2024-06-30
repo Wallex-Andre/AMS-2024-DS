@@ -1,0 +1,42 @@
+p.TAmarelo {
+
+    background-color: #FFFF99 ;
+    color: navy;
+}
+
+p.TPreto {
+    background-color: black;
+    color: #FFFFFF;
+}
+
+p.TVerde {
+    background-color: #99FF66 ;
+    color: black;
+}
+
+    span.subtitulo1 {
+       font-family: Arial;
+       font-size: 20px;
+       color: maroon;
+       font-weight: bold;
+       text-decoration: underline maroon;
+       text-decoration-color: maroon;
+    }
+    
+    span.subtitulo2 {
+       font-family: Arial;
+       font-size: 20px;
+       color: #FFCC00;
+       font-weight: bold;
+       text-decoration: underline #FFCC00;
+       text-decoration-color: #FFCC00;
+    }
+
+    span.subtitulo3 {
+       font-family: Arial;
+       font-size: 20px;
+       color: maroon;
+       font-weight: bold;
+       text-decoration: underline maroon;
+       text-decoration-color: maroon;
+    }
