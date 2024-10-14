@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Hammersmith One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #87CEFA;
+    margin: 12%;
+}
+
+form {
+    font-size: 3rem;
+    color: rgb(0, 0, 139);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 80%;
+}
+
+#numero{
+    width: 80%;
+    height: 4.5rem;
+    font-size: 2rem;
+    margin-top: 1rem;
+    border-radius: 20px;
+    color: rgb(0, 0, 139);
+    background-color: aliceblue;
+    border-color: rgb(0, 0, 139);
+}
+
+button{
+    width: 30%;
+    height: 4.5rem;
+    font-size: 2rem;
+    margin-top: 2rem;
+    border-radius: 20px;
+    color: rgb(0, 0, 139);
+    background-color: aliceblue;
+    border-color: rgb(0, 0, 139);
+}
+
+p{
+    font-size: 2rem;
+    margin-top: 2rem;
+    color: rgb(0, 0, 139);
+}

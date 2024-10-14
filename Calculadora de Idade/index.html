@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de idade</title>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap');</style>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <form onsubmit="event.preventDefault(); calcularIdade();">
+        <label for="dataNascimento">Digite sua data de nascimento</label>
+        <label for="dataNascimento">(formato DD/MM/AAAA):</label>
+        <input type="date" id="dataNascimento" required>
+        <button type="submit" id="calcular">Calcular Idade</button>
+    </form>
+    <p id="resultado"></p>
+    <script src="script.js"></script>
+</body>
+</html>
